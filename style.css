@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body {
+  font-family: "Roboto Mono", monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1{text-align: center;
+font-size: 35px;
+color: #EE9B01;}
+ul,ol{font-weight: 800;}
+
+.car{width: 150px height 150 border-radius:20pxb border;
+:3px inset bleck;}
